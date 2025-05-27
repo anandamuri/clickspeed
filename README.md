@@ -27,5 +27,5 @@
   - tested and documented API endpoints  
 
 Here is a demo with the database and backend in use:
-https://github.com/user-attachments/assets/797b4454-6df7-429f-a64b-4b0b5d81d5e6
+https://github.com/user-attachments/assets/989ad495-cfe1-4cb5-acc1-70c67cc965fe
 
