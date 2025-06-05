@@ -10,7 +10,7 @@
 
 **Backend:**  
 - FastAPI  
-  - created a fast, modern REST API for handling game data  
+  - created a fast, custom REST API for handling game data  
 - Python  
   - wrote backend logic and API functions  
 - MySQL / SQL  
