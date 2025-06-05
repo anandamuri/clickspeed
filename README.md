@@ -22,7 +22,7 @@
 - Railway  
   - deployed the backend and managed the MySQL database  
 - Git / GitHub  
-  - tracked changes and enabled CI/CD with Vercel and Railway  
+  - version control and enabled CI/CD with Vercel and Railway  
 - Swagger UI  
   - tested and documented API endpoints  
 
