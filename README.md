@@ -18,7 +18,7 @@
 
 **Tools:**  
 - Vercel  
-  - hosted the frontend  
+  - deployed the frontend  
 - Railway  
   - deployed the backend and managed the MySQL database  
 - Git / GitHub  
