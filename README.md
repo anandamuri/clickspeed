@@ -30,10 +30,10 @@ Here is a demo with the database and backend in use:
 
 https://github.com/user-attachments/assets/8896479c-a30e-4499-bcc0-df61db85ca01 
 
-![Intro Screen](https://github.com/user-attachments/assets/eb91cdb2-4bdf-4831-a83b-8fd24ec03c1c)
-![Mode Selection Screen](https://github.com/user-attachments/assets/ec526f33-3fd1-453a-9f61-ddfcbec9de85)
-![CPS](https://github.com/user-attachments/assets/af1e6162-0e96-4ce1-998e-72f9430b0f9d)
-![Normalized](https://github.com/user-attachments/assets/ec0add71-3d80-4cde-b63d-85196b6ced65)
-![Shrink](https://github.com/user-attachments/assets/a6ef9051-6cf7-4583-b5a9-81d9d3df56f7)
-![Arena](https://github.com/user-attachments/assets/5628a50c-6357-46a1-9b49-55198ddf702a)
-![End Screen](https://github.com/user-attachments/assets/f4269cb1-37e2-4fc2-95b5-16f84973d514)
+![Intro Screen](https://github.com/user-attachments/assets/abd89c71-b5a9-49fa-af55-3cd9211e26ea)
+![Mode Selection Screen](https://github.com/user-attachments/assets/d0b60f36-9936-4f19-97d9-7457e4a308de)
+![CPS](https://github.com/user-attachments/assets/740ad515-d99b-4b36-b7a5-d2864ca677ac)
+![Normalized](https://github.com/user-attachments/assets/2f6566ea-faf4-43e6-be29-13c77029eade)
+![Shrink](https://github.com/user-attachments/assets/4d1efe24-208b-4738-ac11-814b12061fd2)
+![Arena](https://github.com/user-attachments/assets/31ef9a8c-9c0f-47fd-987b-8413702ab2f0)
+![End Screen](https://github.com/user-attachments/assets/594445c0-48eb-4381-8f7d-31bfe9fd02ae)
