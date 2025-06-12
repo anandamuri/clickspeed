@@ -1,4 +1,4 @@
-# CLICKSPEED+ 🎮 🛠️
+# CLICKSPEED+
 
 **Frontend:**  
 - HTML5 
