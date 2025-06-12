@@ -30,7 +30,7 @@ Here is a live demo without database:
 [https://clickspeed-plus.vercel.app/](https://clickspeed-plus.vercel.app/)
 
 Here is a demo with the database:
-https://github.com/user-attachments/assets/a880e774-45a2-4371-b3d3-a01761d692a3
+https://github.com/user-attachments/assets/a880e774-45a2-4371-b3d3-a01761d692a3 
 
 ![Intro Screen](https://github.com/user-attachments/assets/abd89c71-b5a9-49fa-af55-3cd9211e26ea)
 ![Mode Selection Screen](https://github.com/user-attachments/assets/d0b60f36-9936-4f19-97d9-7457e4a308de)
