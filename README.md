@@ -27,7 +27,7 @@
   - tested and documented API endpoints  
 
 Here is a live demo without database:
-https://clickspeed-plus.vercel.app/ 
+<a href="https://clickspeed-plus.vercel.app/" target="_blank">https://clickspeed-plus.vercel.app/</a>
 
 Here is a demo with the database:
 
