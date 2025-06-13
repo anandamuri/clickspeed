@@ -31,14 +31,7 @@ Here is a live demo without database:
 
 Here is a demo with the database:
 
-
-
 https://github.com/user-attachments/assets/bda7510d-e363-4ed4-86e0-c9ebece72438
-
-
-
-https://github.com/user-attachments/assets/396d0b55-dc8e-4512-b68c-53a784f57a97
-
 
 ![Intro Screen](https://github.com/user-attachments/assets/abd89c71-b5a9-49fa-af55-3cd9211e26ea)
 ![Mode Selection Screen](https://github.com/user-attachments/assets/d0b60f36-9936-4f19-97d9-7457e4a308de)
